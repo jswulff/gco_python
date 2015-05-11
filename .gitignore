@@ -26,3 +26,8 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+# Build files
+gco-v3.0.zip
+gco_python.cpp
+pygco.so
